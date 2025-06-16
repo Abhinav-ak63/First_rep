@@ -1,2 +1,3 @@
 This is the first line and need to be added to staging area followed by the commit and push into the repo
-From the branch - first derived from main branch 
+From the branch - first derived from main branch
+This file is updated from the main branch
