@@ -1,1 +1,2 @@
 This is the first line and need to be added to staging area followed by the commit and push into the repo
+From the branch - first derived from main branch 
