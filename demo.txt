@@ -2,3 +2,5 @@ This is the first line and need to be added to staging area followed by the comm
 From the branch - first derived from main branch
 This file is updated from the main branch
 This is a new line
+Updated from first branch
+
