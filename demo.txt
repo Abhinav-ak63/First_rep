@@ -3,7 +3,7 @@ From the branch - first derived from main branch
 This file is updated from the main branch
 This is a new line
 Updated from main branch
-From first branch
+Changed from first branch
 
 
 From the first branch - Different line conflict
