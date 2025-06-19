@@ -4,3 +4,4 @@ This file is updated from the main branch
 This is a new line
 Updated from main branch
 New line from first
+Changed from second branch
