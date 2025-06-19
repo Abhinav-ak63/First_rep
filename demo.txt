@@ -6,4 +6,6 @@ Updated from main branch
 New line from first
 Changed from second branch
 From first branch
+
+
 From the first branch - Different line conflict
