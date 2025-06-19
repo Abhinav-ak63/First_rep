@@ -7,5 +7,10 @@ New line from first
 Changed from first branch
 From the branch1 workspace - c1 commit
 
+=======
+From branch2
+From the branch2 workspace
+From the branch1 workspace
+From the branch1 workspace - c3 commit
 
 From the first branch - Different line conflict
