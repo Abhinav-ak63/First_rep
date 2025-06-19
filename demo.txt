@@ -5,6 +5,6 @@ This is a new line
 Updated from main branch
 New line from first
 Changed from first branch
-
+From branch2
 
 From the first branch - Different line conflict
