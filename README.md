@@ -24,6 +24,10 @@ EdvFormal Tool provides a comprehensive formal verification environment for RTL 
 
 Install python3 packages if not already installed:
 
+'''sh
+
 sudo apt install python3-pip
 
 sudo apt install python3-click
+
+'''
